@@ -1,0 +1,10 @@
+body{
+	background: white;
+	margin: 0px;
+}
+.logofuture{
+	width: 800px;
+	height: 300px;
+	margin: 0px auto;
+	display: inline-block;
+}
